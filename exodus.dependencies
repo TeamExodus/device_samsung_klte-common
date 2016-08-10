@@ -10,5 +10,9 @@
   {
     "repository": "external_stlport",
     "target_path": "external/stlport"
+  },
+  {
+    "repository": "vendor_samsung_klte-common",
+    "target_path": "vendor/samsung/klte-common"
   }
 ]
